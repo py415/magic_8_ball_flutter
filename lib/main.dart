@@ -21,10 +21,12 @@ class _BallState extends State<Ball> {
       alignment: Alignment.center,
       child: FlatButton(
           onPressed: () {
-            ballNumber = Random().nextInt(4) + 1;
-            print('ballNumber = $ballNumber');
+            setState(() {
+              ballNumber = Random().nextInt(4) + 1;
+              print('ballNumber = $ballNumber');
+            });
           },
-          child: Image.asset('images/ball1.png')),
+          child: Image.asset('images/ball$ballNumber.png')),
     );
   }
 }
