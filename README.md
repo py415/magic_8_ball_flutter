@@ -1,20 +1,27 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Magic 8 Ball
 
+## Table of Contents
+1. [Overview](#Overview)
+2. [Product Specs](#Product-Specs)
+3. [App Walkthrough](#App-Walkthrough)
+4. [Credits](#Credits)
 
-# Magic 8 Ball 🎱
+## Overview
+### Description
 
-## Our Goal
+Magic 8 Ball is an app used for fortune telling or seeking advice. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+## Product Specs
+### User Stories
 
+- [x] User shall be able to click the "Ask" button to answer to their question.
 
-## What you will create
+## App Walkthrough
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+Here's a GIF of how the app works:
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+<img src="ADD_GIF_LINK" width=250>
 
+## Credits
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).

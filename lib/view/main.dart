@@ -1,5 +1,6 @@
-import 'package:flutter/material.dart';
 import 'dart:math';
+
+import 'package:flutter/material.dart';
 
 void main() => runApp(
       MaterialApp(
@@ -13,7 +14,7 @@ class Ball extends StatefulWidget {
 }
 
 class _BallState extends State<Ball> {
-  var ballNumber = 0;
+  var ballNumber = 1;
 
   @override
   Widget build(BuildContext context) {
