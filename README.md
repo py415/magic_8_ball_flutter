@@ -20,9 +20,9 @@ Magic 8 Ball is an app used for fortune telling or seeking advice. You can ask t
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/83959245-6898e000-a82f-11ea-9660-61232ac9fce1.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-magic-8-ball.gif" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/83959244-62a2ff00-a82f-11ea-9598-81094eb11eb6.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-magic-8-ball.gif" width=250>
 
 ## Credits
 
